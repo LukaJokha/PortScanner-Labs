@@ -1,6 +1,6 @@
-# PortScanner Labs 🚀
+# AuroraScan 🚀
 
-**PortScanner Labs** is a professional, enterprise-grade infrastructure diagnostics platform engineered for high-performance networks and developers. Built with a strict zero-overhead philosophy, every network lookup, security audit, and telemetry check runs entirely client-side using public, free APIs directly from the browser—requiring $0 in backend infrastructure.
+**AuroraScan** is a professional, enterprise-grade infrastructure diagnostics platform engineered for high-performance networks and developers. Built with a strict zero-overhead philosophy, every network lookup, security audit, and telemetry check runs entirely client-side using public, free APIs directly from the browser—requiring $0 in backend infrastructure.
 
 ## 🛠️ Expert Command Surface Toolset
 * **IP / ASN:** Deep network metrics, BGP routing information, hosting provider, and precise geolocation lookup.
@@ -22,4 +22,3 @@
 
 ## 🌐 Corporate Contact & Inquiries
 * **Official Inquiries:** [lukadadu@gmail.com](mailto:lukadadu@gmail.com)
-* **Direct Line:** +995 595 071 509

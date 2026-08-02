@@ -241,8 +241,8 @@ function App() {
           <div className="space-y-2">
             <div className="text-[10px] text-cyan-300">Professional profiles</div>
             <div className="flex flex-col gap-2 sm:flex-row sm:items-center lg:flex-col lg:items-start">
-              <a href="https://github.com/lukadadu" target="_blank" rel="noreferrer" className="text-sm text-slate-200 transition hover:text-cyan-300">GitHub</a>
-              <a href="https://www.linkedin.com/in/lukadadu" target="_blank" rel="noreferrer" className="text-sm text-slate-200 transition hover:text-cyan-300">LinkedIn</a>
+              <a href="https://github.com/LukaJokha" target="_blank" rel="noreferrer" className="text-sm text-slate-200 transition hover:text-cyan-300">GitHub</a>
+              <a href="https://www.linkedin.com/in/lukajokhadze/" target="_blank" rel="noreferrer" className="text-sm text-slate-200 transition hover:text-cyan-300">LinkedIn</a>
             </div>
             <div className="flex items-center gap-2 text-[10px] text-slate-500">
               <span className="inline-flex h-2 w-2 rounded-full bg-emerald-300"></span>

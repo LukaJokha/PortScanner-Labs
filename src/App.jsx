@@ -116,10 +116,10 @@ function App() {
               ☰
             </button>
             <div className="flex h-9 w-9 items-center justify-center border border-cyan-400/30 bg-cyan-500/10 text-sm font-semibold text-cyan-300">
-              PS
+              AS
             </div>
             <div>
-              <div className="text-sm font-semibold tracking-[0.16em] text-white">PORTSCANNER LABS</div>
+              <div className="text-sm font-semibold tracking-[0.16em] text-white">AURORASCAN</div>
               <div className="text-[10px] uppercase tracking-[0.2em] text-slate-500">Enterprise diagnostics</div>
             </div>
           </div>
@@ -227,9 +227,9 @@ function App() {
       <footer id="footer" className="sticky bottom-0 z-20 border-t border-slate-800 bg-slate-950/90 backdrop-blur">
         <div className="mx-auto grid max-w-[2200px] gap-6 px-4 py-5 text-[11px] uppercase tracking-[0.24em] text-slate-400 sm:px-6 lg:grid-cols-[1.2fr_0.8fr_0.8fr] lg:px-8">
           <div className="space-y-2">
-            <div className="text-[10px] text-slate-500">PortScanner Labs</div>
+            <div className="text-[10px] text-slate-500">AuroraScan</div>
             <div className="text-sm font-semibold tracking-[0.16em] text-white">Enterprise infrastructure diagnostics</div>
-            <div className="text-[10px] text-slate-500">© {year} PortScanner Labs. Client-side security tooling for public network posture review.</div>
+            <div className="text-[10px] text-slate-500">© {year} AuroraScan. Client-side security tooling for public network posture review.</div>
           </div>
 
           <div className="space-y-2">
